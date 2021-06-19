@@ -1,0 +1,8 @@
+{
+  "name": "luc-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:michaeldistel/luc-project.git",
+  "author": "Michael Distel <michael@michaeldistel.com>",
+  "license": "MIT"
+}
